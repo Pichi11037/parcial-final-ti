@@ -1,1 +1,0 @@
-"# parcial-final-ti"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Pichi11037/parcial-final-ti.gitgit push -u origin main
