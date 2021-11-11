@@ -1,3 +1,4 @@
 #!/bin/bash
 yum install -y httpd
+sudo mount -t efs -o tls fs-0dcb7cdc5ac2b6d8b:/ /var/www/html/
 
