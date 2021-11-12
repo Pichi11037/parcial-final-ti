@@ -15,7 +15,10 @@ function init() {
 
     //mode buttons event listeners
     setupModeButtons();
+    setupSquares();
+    reset();
 
+}
 
 function setupSquares() {
     for (let i = 0; i < squares.length; i++) {
